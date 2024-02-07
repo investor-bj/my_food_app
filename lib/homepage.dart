@@ -25,6 +25,7 @@ class MyHomePage extends StatelessWidget {
               height: 100,
             ),
           ),
+          Text("Leye"),
           Text('samuel'),
           Center(
             child: Image.asset(
