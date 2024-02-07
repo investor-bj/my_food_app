@@ -10,8 +10,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     Future.delayed(
       const Duration(seconds: 50),
-      () => Navigator.push(
-          context, MaterialPageRoute(builder: (context) => const UnBodied())),
+      () => Navigator.push(context, MaterialPageRoute(builder: (context) => const UnBodied())),
     );
     return Scaffold(
       backgroundColor: Colors.white,
@@ -22,11 +21,12 @@ class MyHomePage extends StatelessWidget {
             left: 20,
             child: Image.asset(
               'assets/images/top-position.png',
-              width: 100,
+              width: 20,
               height: 100,
             ),
           ),
           Text("Leye"),
+          Text('samuel'),
           Center(
             child: Image.asset(
               'assets/images/dis.png',
@@ -37,8 +37,7 @@ class MyHomePage extends StatelessWidget {
           Positioned(
             bottom: 20,
             right: 20,
-            child: Image.asset('assets/images/bottom.png',
-                width: 100, height: 100),
+            child: Image.asset('assets/images/bottom.png', width: 100, height: 100),
           ),
         ],
       ), //center
