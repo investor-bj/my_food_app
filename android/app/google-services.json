@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1080810727930",
+    "firebase_url": "https://inventory-2e7c6.firebaseio.com",
+    "project_id": "inventory-2e7c6",
+    "storage_bucket": "inventory-2e7c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080810727930:android:bdb678f4f04b660e481c43",
+        "android_client_info": {
+          "package_name": "com.example.my_food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080810727930-n2j53f171ur3lp6iim4gac9h86lo2r2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJ6Sm-YbsYyoheQRyqXiU9q9eJ4GEXp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080810727930-n2j53f171ur3lp6iim4gac9h86lo2r2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080810727930:android:25d9dae64e5e0609481c43",
+        "android_client_info": {
+          "package_name": "com.example.springiot2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080810727930-n2j53f171ur3lp6iim4gac9h86lo2r2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJ6Sm-YbsYyoheQRyqXiU9q9eJ4GEXp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080810727930-n2j53f171ur3lp6iim4gac9h86lo2r2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080810727930:android:bfc326de4c644f30481c43",
+        "android_client_info": {
+          "package_name": "com.spring.myhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080810727930-n2j53f171ur3lp6iim4gac9h86lo2r2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfJ6Sm-YbsYyoheQRyqXiU9q9eJ4GEXp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080810727930-n2j53f171ur3lp6iim4gac9h86lo2r2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
