@@ -26,6 +26,7 @@ class MyHomePage extends StatelessWidget {
               height: 100,
             ),
           ),
+          Text("Leye"),
           Center(
             child: Image.asset(
               'assets/images/dis.png',
