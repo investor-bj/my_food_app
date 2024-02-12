@@ -9,6 +9,7 @@ class MyHomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     Future.delayed(
+      widgetFactory
       const Duration(seconds: 50),
       () => Navigator.push(
           context, MaterialPageRoute(builder: (context) => const UnBodied())),
